@@ -1,0 +1,40 @@
+# basic python programming assignments:
+1. enter any length and width run time and 
+find out area of ractangle
+
+2. enter any radius at runtime and find out
+area of circle   3
+
+3. enter any side at run time and find out area of
+square
+
+4. enter any no at run time and find out cube of
+this any no
+
+5. enter base and height at run time and find out 
+area of triangle
+
+6. enter any 5 different marks at run time
+and find out average of marks at 100 marks
+
+7 enter the basic salary of an employee at run time
+and find out DA,HRA,TA AND NET salary
+DA= 10%
+HRA=20%
+TA=5%
+then  find out Net salary.
+
+8 enter any no of days at run time and find out
+how many year, how many months and how many remaining day
+
+name uttam kumar 
+8709339439
+
+
+
+
+
+
+
+
+
